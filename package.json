@@ -1,0 +1,21 @@
+{
+  "name": "streamforge-stellar-rewards",
+  "version": "1.0.0",
+  "description": "Handles contributor rewards using Stellar blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-personal:arclayerlabs/streamforge-stellar-rewards.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stellar/stellar-sdk": "^14.6.1",
+    "axios": "^1.13.6",
+    "dotenv": "^17.3.1"
+  }
+}
